@@ -36,7 +36,7 @@
  
   ## 💻 Tool
   <img src="https://img.shields.io/badge/VisualStudioCode-%007ACC%.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intellij-%000000.svg?style=for-the-badge&logo=Intellihj&logoColor=white" >
+  <img src="https://img.shields.io/badge/Intellij-%000000.svg?style=for-the-badge&logo=Intellij&logoColor=white" >
   <img src="https://img.shields.io/badge/Spring-%6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-%5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-%000000.svg?style=for-the-badge&logo=Notion&logoColor=white" />
