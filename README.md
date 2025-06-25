@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=300&section=header&text=Hi%2C%20I'm%20Minjun%20K%20💻&fontSize=38&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20-%20MinjunK's%20GitHub&fontColor=ffffff&fontSize=36&animation=twingkling)
