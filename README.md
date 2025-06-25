@@ -21,8 +21,8 @@
   <br/>
   
   ## 👉 Contact
-  <img src="https://img.shields.io/badge/Naver-%03C75A.svg?style=for-the-badge&logo=Naver&ogoColor=white" />
-  <img src="https://img.shields.io/badge/Instagram-%FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naver-%03C75A.svg?style=for-the-badge&logo=naver&ogoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   <br/>
   <br/>
 
@@ -30,16 +30,16 @@
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=l\linux&logoColor=white" />
   <br/>
   <br/>
  
   ## 💻 Tool
-  <img src="https://img.shields.io/badge/VisualStudioCode-%007ACC%.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intellij-%000000.svg?style=for-the-badge&logo=Intellij&logoColor=white" >
-  <img src="https://img.shields.io/badge/Spring-%6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-%5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%000000.svg?style=for-the-badge&logo=Notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/VisualStudioCode-%007ACC%.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intellij-%000000.svg?style=for-the-badge&logo=intellij&logoColor=white" >
+  <img src="https://img.shields.io/badge/Spring-%6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-%5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <br/>
   <br/>
  
