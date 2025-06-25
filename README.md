@@ -9,3 +9,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=30&pause=1500&color=F3E5AB&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+Github&speed=70&deleteSpeed=70" alt="Typing SVG" />
   </a>
 </div>
+
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-#FCC624.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<br>
+
+
