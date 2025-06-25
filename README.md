@@ -10,10 +10,10 @@
   </a>
 </div>
 
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-%00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/Llinux-%FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" />
 <br>
 
 
