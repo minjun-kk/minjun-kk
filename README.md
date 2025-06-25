@@ -14,9 +14,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand 이름: 김민준
+  #### :fire 소속: 한국외국어대학교 글로벌캠퍼스 컴퓨터공학부
+  #### :mortar_board 한줄 소개: 예아 ㅋㅋ
   <br/>
   <br/>
   
@@ -47,6 +47,7 @@
   ## 🤔 Stats
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjun0306)](https://solved.ac/minjun0306)
   [![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjun-kk&theme=radical)](https://github.com/minjun-kk/github-readme-stats)
+  <br/>
   
 </div>
 
