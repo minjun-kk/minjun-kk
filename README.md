@@ -46,7 +46,7 @@
   
   ## 🤔 Stats
   [![Solved.ac]minjun](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjun0306)](https://solved.ac/minjun0306)
-  [![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjun-kk)](https://github.com/minjun-kk/github-readme-stats)
+  [![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjun-kk&theme=cobalt)](https://github.com/minjun-kk/github-readme-stats)
   
 </div>
 
