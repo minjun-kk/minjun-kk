@@ -21,8 +21,8 @@
   <br/>
   
   ## 👉 Contact
-  <img src="https://img.shields.io/badge/Naver-%03C75A.svg?style=for-the-badge&logo=naver&ogoColor=white" />
-  <img src="https://img.shields.io/badge/Instagram-%FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%23FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   <br/>
   <br/>
 
@@ -35,11 +35,11 @@
   <br/>
  
   ## 💻 Tool
-  <img src="https://img.shields.io/badge/VisualStudioCode-%007ACC%.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intellij-%000000.svg?style=for-the-badge&logo=intellij&logoColor=white" >
-  <img src="https://img.shields.io/badge/Spring-%6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-%5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/VisualStudioCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intellij-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <br/>
   <br/>
  
