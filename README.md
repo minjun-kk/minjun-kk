@@ -19,23 +19,34 @@
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
+  
+  ## 👉 Contact
+  <img src="https://img.shields.io/badge/Naver-%03C75A.svg?style=for-the-badge&logo=Naver&ogoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <br/>
+  <br/>
 
   ## 🧱 Tech Stack
-<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" />
-
- ## 💻 Tool
- 
-  ## 👉 Contact
-  
- 
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" />
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+ 
+  ## 💻 Tool
+  <img src="https://img.shields.io/badge/VisualStudioCode-%007ACC%.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intellij-%000000.svg?style=for-the-badge&logo=Intellihj&logoColor=white" >
+  <img src="https://img.shields.io/badge/Spring-%6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-%5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%000000.svg?style=for-the-badge&logo=Notion&logoColor=white" />
+  <br/>
+  <br/>
+ 
+  
+  ## 🤔 Stats
+  [![Solved.ac]minjun](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjun0306)](https://solved.ac/minjun0306)
+  [![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjun0306)](https://github.com/minjun0306/github-readme-stats)
   
 </div>
 
